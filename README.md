@@ -1,19 +1,19 @@
-Week 1 Assignment :- ( Python Basics ) 
+-> Week 1 Assignment :- ( Python Basics ) 
 * untitled1.ipynb 
 * ⁠cleaned_combined_dataset.csv
 
-Week 2 Assignment :- ( SQL Basics )
+-> Week 2 Assignment :- ( SQL Basics )
 * Superstore_sales_analysis.sql
 * Screenshots ( Query Outputs )
 
-Week 3 Assignment :- ( SQL Subqueries, CTEs & Window Functions )
+-> Week 3 Assignment :- ( SQL Subqueries, CTEs & Window Functions )
 * Subqueries_CTEs_WindowFunctions.sql
 * Screenshots ( Query Outputs )
 
-Week 4 Assignment :- ( Azure Data Factory )
+-> Week 4 Assignment :- ( Azure Data Factory )
 * Dataset_ADF.txt
 * Screenshots ( pipeline outputs )
 
-Week 5 Assignment :- ( Data Cleaning )
+-> Week 5 Assignment :- ( Data Cleaning )
 * Data_Cleaning.ipynb
 * Screenshots ( Spark Outputs )
