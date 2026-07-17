@@ -1,8 +1,5 @@
 USE superstore;
 
-SELECT * FROM customers
-LIMIT 5;
-
 CREATE TABLE customers AS
 SELECT DISTINCT
     `Customer ID`,
@@ -14,7 +11,7 @@ SELECT DISTINCT
     Region
 FROM superstore_data;
 
-SELECT * FROM products
+SELECT * FROM customers
 LIMIT 5;
 
 CREATE TABLE products AS
@@ -25,7 +22,7 @@ SELECT DISTINCT
     `Sub-Category`
 FROM superstore_data;
 
-SELECT * FROM orders
+SELECT * FROM products
 LIMIT 5;
 
 CREATE TABLE orders AS
@@ -41,6 +38,9 @@ SELECT
     Discount,
     Profit
 FROM superstore_data;
+
+SELECT * FROM orders
+LIMIT 5;
 
 SELECT COUNT(*) AS Total_Customers
 FROM Customers;
