@@ -1,0 +1,12 @@
+========== E-COMMERCE REPORT ==========
+Report Type: monthly
+Date Range: 2025-01-01 to 2025-01-31
+Total Orders: 18
+Revenue: ₹383,252.71
+Unique Customers: 18
+Revenue Change: -26.41%
+
+Top 3 Products:
+1. Novel Score - ₹29,920.23
+2. Novel Huge - ₹25,860.00
+3. Monitor Sign - ₹25,552.62

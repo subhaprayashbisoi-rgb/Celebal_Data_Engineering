@@ -1,0 +1,501 @@
+product_id,product_name,category,subcategory,cost_price
+P0001,Monitor morning,Electronics,Monitor,1398.61
+P0002,Keyboard action,Electronics,Keyboard,3284.2
+P0003,Headphones recognize,Electronics,Headphones,4310.78
+P0004,Monitor edge,Electronics,Monitor,3171.32
+P0005,Monitor thus,Electronics,Monitor,275.91
+P0006,Laptop sure,Electronics,Laptop,3453.56
+P0007,Headphones positive,Electronics,Headphones,3759.16
+P0008,Monitor return,Electronics,Monitor,3825.81
+P0009,Laptop company,Electronics,Laptop,3500.61
+P0010,  LAPTOP SOMETIMES  ,Electronics,Laptop,4001.1
+P0011,Headphones my,Electronics,Headphones,2210.37
+P0012,Phone challenge,Electronics,Phone,2873.05
+P0013,Phone like,Electronics,Phone,486.94
+P0014,Monitor collection,Electronics,Monitor,1280.07
+P0015,Keyboard country,Electronics,Keyboard,2359.63
+P0016,Headphones others,Electronics,Headphones,3367.52
+P0017,Monitor others,Electronics,Monitor,3420.29
+P0018,  PHONE RECEIVE  ,Electronics,Phone,4731.65
+P0019,Keyboard turn,Electronics,Keyboard,4813.94
+P0020,Headphones child,Electronics,Headphones,1580.4
+P0021,Monitor simply,Electronics,Monitor,622.6
+P0022,Monitor sign,Electronics,Monitor,2916.58
+P0023,  HEADPHONES MEMBER  ,Electronics,Headphones,4167.18
+P0024,Monitor wrong,Electronics,Monitor,2873.05
+P0025,Laptop her,Electronics,Laptop,3751.34
+P0026,Headphones amount,Electronics,Headphones,1227.58
+P0027,Headphones discuss,Electronics,Headphones,1031.65
+P0028,Headphones sort,Electronics,Headphones,3632.55
+P0029,Phone method,Electronics,Phone,4526.68
+P0030,Laptop each,Electronics,Laptop,2260.03
+P0031,Keyboard at,Electronics,Keyboard,743.92
+P0032,Headphones everything,Electronics,Headphones,2135.97
+P0033,Phone hope,Electronics,Phone,2743.1
+P0034,Headphones east,Electronics,Headphones,4576.09
+P0035,Phone and,Electronics,Phone,4140.98
+P0036,Monitor relate,Electronics,Monitor,1546.19
+P0037,Headphones design,Electronics,Headphones,2394.82
+P0038,Laptop national,Electronics,Laptop,4835.85
+P0039,Monitor whatever,Electronics,Monitor,4042.48
+P0040,  HEADPHONES STRONG  ,Electronics,Headphones,2033.42
+P0041,Headphones herself,Electronics,Headphones,2328.45
+P0042,Headphones important,Electronics,Headphones,4129.84
+P0043,Headphones manager,Electronics,Headphones,1245.73
+P0044,Laptop whose,Electronics,Laptop,4721.53
+P0045,Headphones look,Electronics,Headphones,1184.7
+P0046,Laptop upon,Electronics,Laptop,2374.91
+P0047,Headphones any,Electronics,Headphones,671.71
+P0048,Laptop among,Electronics,Laptop,1591.39
+P0049,Monitor range,Electronics,Monitor,1250.52
+P0050,Keyboard game,Electronics,Keyboard,2322.85
+P0051,Keyboard board,Electronics,Keyboard,3737.12
+P0052,Phone score,Electronics,Phone,3309.12
+P0053,Monitor near,Electronics,Monitor,4701.36
+P0054,  HEADPHONES PROPERTY  ,Electronics,Headphones,1915.6
+P0055,Monitor themselves,Electronics,Monitor,1256.95
+P0056,  HEADPHONES EYE  ,Electronics,Headphones,3459.83
+P0057,Keyboard they,Electronics,Keyboard,3259.65
+P0058,Laptop site,Electronics,Laptop,1030.06
+P0059,Laptop everyone,Electronics,Laptop,4138.54
+P0060,Laptop particular,Electronics,Laptop,3244.35
+P0061,Keyboard off,Electronics,Keyboard,347.83
+P0062,Headphones over,Electronics,Headphones,717.03
+P0063,Keyboard contain,Electronics,Keyboard,4166.11
+P0064,Keyboard however,Electronics,Keyboard,1158.16
+P0065,Phone ready,Electronics,Phone,823.02
+P0066,  KEYBOARD HUMAN  ,Electronics,Keyboard,4306.19
+P0067,Phone history,Electronics,Phone,2747.06
+P0068,Phone people,Electronics,Phone,4345.59
+P0069,  PHONE READY  ,Electronics,Phone,3970.92
+P0070,Phone water,Electronics,Phone,177.33
+P0071,  HEADPHONES THING  ,Electronics,Headphones,3734.42
+P0072,Keyboard bank,Electronics,Keyboard,411.43
+P0073,Monitor nation,Electronics,Monitor,2614.87
+P0074,Laptop enter,Electronics,Laptop,1185.59
+P0075,  KEYBOARD HOWEVER  ,Electronics,Keyboard,3937.81
+P0076,Keyboard whatever,Electronics,Keyboard,3252.37
+P0077,  LAPTOP DOG  ,Electronics,Laptop,2447.01
+P0078,Monitor name,Electronics,Monitor,629.01
+P0079,  MONITOR INTO  ,Electronics,Monitor,495.87
+P0080,Keyboard head,Electronics,Keyboard,718.34
+P0081,Keyboard technology,Electronics,Keyboard,2786.95
+P0082,Headphones trip,Electronics,Headphones,3027.22
+P0083,Headphones hair,Electronics,Headphones,3066.59
+P0084,Laptop message,Electronics,Laptop,660.63
+P0085,Keyboard structure,Electronics,Keyboard,1153.61
+P0086,Monitor meet,Electronics,Monitor,2127.69
+P0087,Monitor very,Electronics,Monitor,3675.1
+P0088,Headphones PM,Electronics,Headphones,3359.03
+P0089,Headphones according,Electronics,Headphones,3465.42
+P0090,  MONITOR MORE  ,Electronics,Monitor,4175.68
+P0091,Laptop us,Electronics,Laptop,3748.49
+P0092,Headphones chair,Electronics,Headphones,2826.22
+P0093,Keyboard less,Electronics,Keyboard,2852.25
+P0094,Laptop company,Electronics,Laptop,4380.68
+P0095,Monitor drug,Electronics,Monitor,3633.2
+P0096,Headphones ball,Electronics,Headphones,1823.07
+P0097,Keyboard my,Electronics,Keyboard,858.18
+P0098,Monitor question,Electronics,Monitor,630.27
+P0099,Keyboard fast,Electronics,Keyboard,3836.77
+P0100,Keyboard development,Electronics,Keyboard,2202.65
+P0101,Keyboard citizen,Electronics,Keyboard,4110.29
+P0102,Keyboard culture,Electronics,Keyboard,2828.02
+P0103,Keyboard coach,Electronics,Keyboard,4164.36
+P0104,  HEADPHONES HIGH  ,Electronics,Headphones,1439.02
+P0105,Headphones play,Electronics,Headphones,1820.01
+P0106,Phone series,Electronics,Phone,2874.97
+P0107,  MONITOR TECHNOLOGY  ,Electronics,Monitor,3730.75
+P0108,  LAPTOP BY  ,Electronics,Laptop,2699.37
+P0109,Monitor recent,Electronics,Monitor,1770.39
+P0110,Headphones drug,Electronics,Headphones,1689.48
+P0111,Keyboard join,Electronics,Keyboard,4428.38
+P0112,Phone talk,Electronics,Phone,3127.41
+P0113,Laptop give,Electronics,Laptop,3343.5
+P0114,Monitor service,Electronics,Monitor,2129.5
+P0115,Phone build,Electronics,Phone,657.71
+P0116,Monitor meet,Electronics,Monitor,3423.27
+P0117,Keyboard Republican,Electronics,Keyboard,3368.95
+P0118,Laptop measure,Electronics,Laptop,4923.78
+P0119,  LAPTOP MEASURE  ,Electronics,Laptop,1576.95
+P0120,Phone develop,Electronics,Phone,3844.39
+P0121,Headphones performance,Electronics,Headphones,137.88
+P0122,Monitor color,Electronics,Monitor,1963.02
+P0123,Phone radio,Electronics,Phone,4183.44
+P0124,  HEADPHONES THESE  ,Electronics,Headphones,4322.65
+P0125,Laptop item,Electronics,Laptop,2352.8
+P0126,Shirt age,Clothing,Shirt,2921.22
+P0127,T-Shirt either,Clothing,T-Shirt,3236.69
+P0128,Jacket animal,Clothing,Jacket,202.2
+P0129,Jacket care,Clothing,Jacket,4743.31
+P0130,Shoes painting,Clothing,Shoes,4606.87
+P0131,Shirt person,Clothing,Shirt,618.73
+P0132,Shoes college,Clothing,Shoes,2667.42
+P0133,Shoes center,Clothing,Shoes,3754.44
+P0134,Jeans professional,Clothing,Jeans,923.85
+P0135,T-Shirt music,Clothing,T-Shirt,2699.96
+P0136,Jeans among,Clothing,Jeans,1811.94
+P0137,Jeans vote,Clothing,Jeans,817.58
+P0138,Jeans page,Clothing,Jeans,849.06
+P0139,Shirt choice,Clothing,Shirt,3886.96
+P0140,Shoes arrive,Clothing,Shoes,2862.3
+P0141,T-Shirt compare,Clothing,T-Shirt,4628.36
+P0142,T-Shirt evening,Clothing,T-Shirt,4934.01
+P0143,Jacket win,Clothing,Jacket,3173.37
+P0144,Jeans couple,Clothing,Jeans,2397.71
+P0145,Jacket nation,Clothing,Jacket,2997.96
+P0146,Jacket into,Clothing,Jacket,1621.0
+P0147,  SHOES PLACE  ,Clothing,Shoes,1906.81
+P0148,  JACKET ORGANIZATION  ,Clothing,Jacket,4334.83
+P0149,Shirt public,Clothing,Shirt,2584.63
+P0150,Shoes after,Clothing,Shoes,4775.73
+P0151,Shirt unit,Clothing,Shirt,4068.1
+P0152,Jeans serve,Clothing,Jeans,2430.58
+P0153,Jeans should,Clothing,Jeans,2307.56
+P0154,Jacket recently,Clothing,Jacket,513.21
+P0155,  JEANS TERM  ,Clothing,Jeans,3567.35
+P0156,Shoes federal,Clothing,Shoes,3088.05
+P0157,Jacket your,Clothing,Jacket,1486.18
+P0158,Shoes bed,Clothing,Shoes,3426.6
+P0159,Shirt direction,Clothing,Shirt,3271.8
+P0160,Shirt list,Clothing,Shirt,2834.02
+P0161,Shoes policy,Clothing,Shoes,3646.29
+P0162,T-Shirt market,Clothing,T-Shirt,1733.47
+P0163,T-Shirt trip,Clothing,T-Shirt,4592.06
+P0164,Jacket meet,Clothing,Jacket,3522.55
+P0165,Shoes conference,Clothing,Shoes,3573.29
+P0166,Shirt discuss,Clothing,Shirt,1945.73
+P0167,Jacket then,Clothing,Jacket,3383.57
+P0168,  T-SHIRT ITEM  ,Clothing,T-Shirt,3385.23
+P0169,T-Shirt plant,Clothing,T-Shirt,1876.73
+P0170,Jeans character,Clothing,Jeans,1774.49
+P0171,Shoes study,Clothing,Shoes,4999.89
+P0172,  JEANS PASS  ,Clothing,Jeans,4237.7
+P0173,Shirt tend,Clothing,Shirt,2744.88
+P0174,  T-SHIRT SPEAK  ,Clothing,T-Shirt,1750.15
+P0175,T-Shirt court,Clothing,T-Shirt,1945.93
+P0176,Jeans price,Clothing,Jeans,3494.94
+P0177,T-Shirt receive,Clothing,T-Shirt,911.14
+P0178,  SHOES MUCH  ,Clothing,Shoes,1885.07
+P0179,Jeans everything,Clothing,Jeans,3091.92
+P0180,Shoes computer,Clothing,Shoes,1271.93
+P0181,Shoes shake,Clothing,Shoes,1050.68
+P0182,T-Shirt rich,Clothing,T-Shirt,2362.23
+P0183,Jacket guess,Clothing,Jacket,2564.24
+P0184,Shoes win,Clothing,Shoes,4102.77
+P0185,T-Shirt long,Clothing,T-Shirt,1325.02
+P0186,Shoes pick,Clothing,Shoes,2817.25
+P0187,Shirt performance,Clothing,Shirt,2627.96
+P0188,Shirt authority,Clothing,Shirt,3839.27
+P0189,Jacket drug,Clothing,Jacket,2615.43
+P0190,  SHOES HUMAN  ,Clothing,Shoes,4561.47
+P0191,Shoes image,Clothing,Shoes,4659.31
+P0192,  SHOES CAUSE  ,Clothing,Shoes,2559.83
+P0193,Jeans boy,Clothing,Jeans,499.87
+P0194,  JEANS ADMIT  ,Clothing,Jeans,4661.05
+P0195,Jacket degree,Clothing,Jacket,774.24
+P0196,Jacket necessary,Clothing,Jacket,2415.03
+P0197,Jeans trade,Clothing,Jeans,2398.64
+P0198,  T-SHIRT WHERE  ,Clothing,T-Shirt,488.21
+P0199,Jacket mother,Clothing,Jacket,832.65
+P0200,T-Shirt return,Clothing,T-Shirt,644.82
+P0201,Jacket kind,Clothing,Jacket,697.06
+P0202,Jeans the,Clothing,Jeans,3990.11
+P0203,  SHOES CITIZEN  ,Clothing,Shoes,4199.77
+P0204,Shoes police,Clothing,Shoes,180.53
+P0205,T-Shirt big,Clothing,T-Shirt,3620.87
+P0206,Jacket cost,Clothing,Jacket,3112.57
+P0207,Jeans maybe,Clothing,Jeans,1017.84
+P0208,Shirt week,Clothing,Shirt,1866.96
+P0209,T-Shirt possible,Clothing,T-Shirt,3953.42
+P0210,T-Shirt plan,Clothing,T-Shirt,2013.22
+P0211,  SHOES AMERICAN  ,Clothing,Shoes,1995.72
+P0212,Jacket understand,Clothing,Jacket,179.59
+P0213,Shirt step,Clothing,Shirt,3691.41
+P0214,Shirt night,Clothing,Shirt,3702.42
+P0215,Jacket most,Clothing,Jacket,1826.27
+P0216,Jacket soldier,Clothing,Jacket,957.94
+P0217,Shoes buy,Clothing,Shoes,2444.8
+P0218,Jeans better,Clothing,Jeans,409.19
+P0219,  SHOES MEET  ,Clothing,Shoes,1087.8
+P0220,Jeans receive,Clothing,Jeans,1646.42
+P0221,Jacket case,Clothing,Jacket,4946.7
+P0222,T-Shirt week,Clothing,T-Shirt,279.44
+P0223,Jeans player,Clothing,Jeans,4324.48
+P0224,Shirt notice,Clothing,Shirt,1726.43
+P0225,Shirt their,Clothing,Shirt,2241.06
+P0226,Shoes ability,Clothing,Shoes,4483.72
+P0227,Shoes watch,Clothing,Shoes,1015.4
+P0228,Shoes writer,Clothing,Shoes,4006.73
+P0229,Jacket stage,Clothing,Jacket,3662.7
+P0230,Shirt resource,Clothing,Shirt,4975.98
+P0231,Jeans range,Clothing,Jeans,1673.94
+P0232,Shirt lawyer,Clothing,Shirt,1548.64
+P0233,Shoes nearly,Clothing,Shoes,2187.97
+P0234,Shoes kitchen,Clothing,Shoes,307.54
+P0235,Jacket hospital,Clothing,Jacket,2231.21
+P0236,  SHIRT TWO  ,Clothing,Shirt,3223.81
+P0237,Jacket animal,Clothing,Jacket,3774.5
+P0238,Jeans save,Clothing,Jeans,799.62
+P0239,T-Shirt next,Clothing,T-Shirt,2247.05
+P0240,  JEANS LAUGH  ,Clothing,Jeans,3914.73
+P0241,Jacket drop,Clothing,Jacket,4752.39
+P0242,Shirt writer,Clothing,Shirt,3427.4
+P0243,Jacket suffer,Clothing,Jacket,3839.11
+P0244,T-Shirt meet,Clothing,T-Shirt,1898.05
+P0245,Jacket strategy,Clothing,Jacket,1323.1
+P0246,  SHIRT SPECIFIC  ,Clothing,Shirt,1011.64
+P0247,T-Shirt I,Clothing,T-Shirt,2852.2
+P0248,Jacket hard,Clothing,Jacket,3549.79
+P0249,Jeans perform,Clothing,Jeans,1499.33
+P0250,Shoes summer,Clothing,Shoes,765.07
+P0251,Chair site,Home,Chair,4503.53
+P0252,Sofa whatever,Home,Sofa,4071.51
+P0253,Lamp sort,Home,Lamp,3576.75
+P0254,Mixer third,Home,Mixer,4467.53
+P0255,Table same,Home,Table,4643.89
+P0256,Table parent,Home,Table,2592.9
+P0257,Chair billion,Home,Chair,3981.12
+P0258,Table large,Home,Table,228.79
+P0259,Mixer center,Home,Mixer,2390.29
+P0260,Mixer environmental,Home,Mixer,4432.81
+P0261,Chair me,Home,Chair,4998.02
+P0262,Sofa space,Home,Sofa,3868.91
+P0263,  MIXER EARLY  ,Home,Mixer,4864.66
+P0264,Chair where,Home,Chair,3432.53
+P0265,Lamp town,Home,Lamp,4162.36
+P0266,Mixer because,Home,Mixer,991.62
+P0267,Table federal,Home,Table,4562.49
+P0268,Chair piece,Home,Chair,2638.7
+P0269,Lamp under,Home,Lamp,1681.04
+P0270,Table of,Home,Table,4710.43
+P0271,Lamp issue,Home,Lamp,1327.97
+P0272,Mixer even,Home,Mixer,3162.61
+P0273,Mixer current,Home,Mixer,2562.61
+P0274,Table accept,Home,Table,2945.17
+P0275,Table security,Home,Table,3631.1
+P0276,Mixer six,Home,Mixer,4627.26
+P0277,Chair strategy,Home,Chair,239.03
+P0278,Chair account,Home,Chair,3878.01
+P0279,Lamp participant,Home,Lamp,3858.1
+P0280,Sofa necessary,Home,Sofa,248.4
+P0281,Mixer buy,Home,Mixer,4787.59
+P0282,Sofa nature,Home,Sofa,4056.01
+P0283,Sofa account,Home,Sofa,457.57
+P0284,Chair how,Home,Chair,2136.55
+P0285,Sofa real,Home,Sofa,3072.64
+P0286,Lamp describe,Home,Lamp,1664.65
+P0287,Lamp rise,Home,Lamp,740.75
+P0288,Lamp summer,Home,Lamp,620.3
+P0289,Table four,Home,Table,1410.61
+P0290,Table issue,Home,Table,347.97
+P0291,Sofa high,Home,Sofa,2148.86
+P0292,Table both,Home,Table,4675.38
+P0293,Lamp clear,Home,Lamp,880.78
+P0294,Mixer last,Home,Mixer,4407.47
+P0295,  SOFA REACH  ,Home,Sofa,4731.64
+P0296,Mixer pay,Home,Mixer,1279.57
+P0297,Mixer environment,Home,Mixer,347.65
+P0298,Sofa every,Home,Sofa,4229.96
+P0299,Sofa top,Home,Sofa,140.07
+P0300,Chair north,Home,Chair,4424.03
+P0301,Lamp land,Home,Lamp,1893.09
+P0302,  SOFA OTHER  ,Home,Sofa,2852.9
+P0303,Lamp history,Home,Lamp,460.31
+P0304,Mixer population,Home,Mixer,2794.3
+P0305,Mixer fact,Home,Mixer,682.17
+P0306,Chair response,Home,Chair,3995.0
+P0307,Lamp industry,Home,Lamp,1891.47
+P0308,Table someone,Home,Table,2594.7
+P0309,  MIXER DEMOCRAT  ,Home,Mixer,290.68
+P0310,Lamp job,Home,Lamp,2644.73
+P0311,Table old,Home,Table,2625.98
+P0312,Lamp step,Home,Lamp,1660.8
+P0313,Sofa onto,Home,Sofa,3722.66
+P0314,Lamp meeting,Home,Lamp,2585.84
+P0315,Mixer country,Home,Mixer,3572.83
+P0316,Lamp hospital,Home,Lamp,181.52
+P0317,Lamp operation,Home,Lamp,4901.5
+P0318,Mixer one,Home,Mixer,4503.96
+P0319,Chair member,Home,Chair,1401.1
+P0320,Mixer environment,Home,Mixer,3634.86
+P0321,Mixer food,Home,Mixer,2668.74
+P0322,Mixer participant,Home,Mixer,1962.93
+P0323,  TABLE GUY  ,Home,Table,4746.21
+P0324,Chair staff,Home,Chair,2261.09
+P0325,Sofa season,Home,Sofa,3483.45
+P0326,Sofa information,Home,Sofa,3096.24
+P0327,Sofa simply,Home,Sofa,3705.6
+P0328,Chair certainly,Home,Chair,2641.55
+P0329,Mixer top,Home,Mixer,3344.91
+P0330,Mixer treat,Home,Mixer,4787.76
+P0331,Sofa receive,Home,Sofa,1777.4
+P0332,Lamp by,Home,Lamp,4351.51
+P0333,Lamp small,Home,Lamp,1042.09
+P0334,Table drug,Home,Table,1562.65
+P0335,Lamp likely,Home,Lamp,3554.01
+P0336,Sofa stay,Home,Sofa,1809.14
+P0337,Lamp scene,Home,Lamp,2910.04
+P0338,Mixer color,Home,Mixer,4902.79
+P0339,Lamp black,Home,Lamp,4042.62
+P0340,  LAMP DIFFICULT  ,Home,Lamp,4781.04
+P0341,Chair movie,Home,Chair,2267.64
+P0342,Lamp institution,Home,Lamp,1148.54
+P0343,Mixer stock,Home,Mixer,2853.89
+P0344,Lamp ground,Home,Lamp,3116.82
+P0345,Mixer suddenly,Home,Mixer,348.75
+P0346,Mixer oil,Home,Mixer,1240.9
+P0347,Chair positive,Home,Chair,3615.05
+P0348,Chair same,Home,Chair,773.59
+P0349,Mixer return,Home,Mixer,873.91
+P0350,Sofa seat,Home,Sofa,1077.33
+P0351,Lamp area,Home,Lamp,3264.9
+P0352,Chair college,Home,Chair,1237.88
+P0353,Chair improve,Home,Chair,957.82
+P0354,Table provide,Home,Table,278.07
+P0355,Sofa accept,Home,Sofa,1012.93
+P0356,Lamp summer,Home,Lamp,145.41
+P0357,Mixer benefit,Home,Mixer,4649.43
+P0358,Lamp than,Home,Lamp,4946.59
+P0359,Mixer check,Home,Mixer,4457.37
+P0360,Table market,Home,Table,2393.3
+P0361,Table with,Home,Table,1720.35
+P0362,Sofa plan,Home,Sofa,3621.13
+P0363,Chair learn,Home,Chair,3974.76
+P0364,Mixer behavior,Home,Mixer,1046.49
+P0365,Mixer attack,Home,Mixer,4495.51
+P0366,Sofa everyone,Home,Sofa,525.02
+P0367,Chair doctor,Home,Chair,789.0
+P0368,Lamp hospital,Home,Lamp,133.47
+P0369,Sofa base,Home,Sofa,3793.41
+P0370,Lamp politics,Home,Lamp,3642.12
+P0371,Chair always,Home,Chair,1861.81
+P0372,  TABLE SHAKE  ,Home,Table,679.3
+P0373,Lamp if,Home,Lamp,3461.76
+P0374,Lamp word,Home,Lamp,3229.69
+P0375,Lamp institution,Home,Lamp,1182.16
+P0376,Biography positive,Books,Biography,2329.4
+P0377,Dictionary reality,Books,Dictionary,3539.51
+P0378,Comics near,Books,Comics,4029.78
+P0379,Biography few,Books,Biography,3433.68
+P0380,Dictionary seek,Books,Dictionary,501.16
+P0381,Comics picture,Books,Comics,1872.75
+P0382,Dictionary art,Books,Dictionary,4160.99
+P0383,Dictionary young,Books,Dictionary,2729.63
+P0384,Biography staff,Books,Biography,2649.67
+P0385,Novel ten,Books,Novel,3612.9
+P0386,  COMICS CONTINUE  ,Books,Comics,2600.84
+P0387,Novel push,Books,Novel,2614.91
+P0388,Comics miss,Books,Comics,2838.11
+P0389,Science Book leg,Books,Science Book,2040.15
+P0390,Novel action,Books,Novel,2933.73
+P0391,Novel defense,Books,Novel,3531.89
+P0392,Dictionary to,Books,Dictionary,4679.46
+P0393,Novel realize,Books,Novel,2413.15
+P0394,Science Book word,Books,Science Book,3867.96
+P0395,Comics summer,Books,Comics,4467.53
+P0396,Comics national,Books,Comics,4543.16
+P0397,  COMICS FEELING  ,Books,Comics,4824.31
+P0398,Dictionary day,Books,Dictionary,4315.4
+P0399,Novel along,Books,Novel,2732.57
+P0400,Dictionary step,Books,Dictionary,4895.75
+P0401,Novel place,Books,Novel,4894.6
+P0402,Comics Mrs,Books,Comics,2767.78
+P0403,Dictionary name,Books,Dictionary,1225.35
+P0404,Comics say,Books,Comics,1450.68
+P0405,  NOVEL EACH  ,Books,Novel,3334.97
+P0406,Dictionary possible,Books,Dictionary,4430.41
+P0407,Novel condition,Books,Novel,429.73
+P0408,  DICTIONARY REPRESENT  ,Books,Dictionary,3029.15
+P0409,Novel also,Books,Novel,316.76
+P0410,Comics here,Books,Comics,1164.62
+P0411,Novel edge,Books,Novel,4968.07
+P0412,Biography real,Books,Biography,3684.44
+P0413,Science Book a,Books,Science Book,3885.44
+P0414,Science Book coach,Books,Science Book,4393.67
+P0415,Dictionary before,Books,Dictionary,1572.45
+P0416,Novel fact,Books,Novel,2999.17
+P0417,Biography state,Books,Biography,2193.28
+P0418,  COMICS INSTEAD  ,Books,Comics,1787.63
+P0419,Comics head,Books,Comics,1661.8
+P0420,Comics relationship,Books,Comics,1569.45
+P0421,Biography indicate,Books,Biography,2420.24
+P0422,Biography into,Books,Biography,3567.13
+P0423,Comics peace,Books,Comics,2855.69
+P0424,Comics deep,Books,Comics,757.05
+P0425,Biography national,Books,Biography,1718.29
+P0426,Novel administration,Books,Novel,4250.95
+P0427,Novel since,Books,Novel,4164.09
+P0428,Novel score,Books,Novel,3400.99
+P0429,  DICTIONARY AUTHORITY  ,Books,Dictionary,456.64
+P0430,Dictionary wide,Books,Dictionary,2838.37
+P0431,Comics believe,Books,Comics,4544.46
+P0432,Science Book often,Books,Science Book,175.14
+P0433,Biography feel,Books,Biography,674.85
+P0434,Comics she,Books,Comics,3508.57
+P0435,Biography themselves,Books,Biography,1272.72
+P0436,Science Book operation,Books,Science Book,1965.24
+P0437,Dictionary who,Books,Dictionary,1611.27
+P0438,Science Book pass,Books,Science Book,2536.66
+P0439,Novel happen,Books,Novel,3639.83
+P0440,Science Book hand,Books,Science Book,1916.45
+P0441,  COMICS TEAM  ,Books,Comics,4334.02
+P0442,  BIOGRAPHY FACTOR  ,Books,Biography,2811.23
+P0443,Dictionary draw,Books,Dictionary,2146.13
+P0444,Biography police,Books,Biography,1227.09
+P0445,Dictionary day,Books,Dictionary,2546.58
+P0446,Science Book look,Books,Science Book,4125.8
+P0447,Comics wonder,Books,Comics,3690.58
+P0448,Science Book international,Books,Science Book,3629.54
+P0449,Comics paper,Books,Comics,4457.89
+P0450,Novel above,Books,Novel,4211.44
+P0451,Novel every,Books,Novel,3374.26
+P0452,Novel continue,Books,Novel,4228.47
+P0453,  BIOGRAPHY INVESTMENT  ,Books,Biography,840.05
+P0454,Biography move,Books,Biography,1928.68
+P0455,Dictionary both,Books,Dictionary,4676.13
+P0456,Comics operation,Books,Comics,177.09
+P0457,Dictionary baby,Books,Dictionary,158.07
+P0458,Dictionary most,Books,Dictionary,2725.12
+P0459,  SCIENCE BOOK FINANCIAL  ,Books,Science Book,4084.47
+P0460,Comics grow,Books,Comics,4557.89
+P0461,Novel your,Books,Novel,2669.49
+P0462,Biography but,Books,Biography,2679.63
+P0463,Science Book suggest,Books,Science Book,2044.79
+P0464,Science Book must,Books,Science Book,2349.09
+P0465,Biography even,Books,Biography,1206.7
+P0466,Novel under,Books,Novel,4305.27
+P0467,  NOVEL NOTE  ,Books,Novel,1958.39
+P0468,Dictionary tax,Books,Dictionary,3220.07
+P0469,  BIOGRAPHY STUDENT  ,Books,Biography,4242.12
+P0470,Science Book paper,Books,Science Book,4304.01
+P0471,Novel enough,Books,Novel,4603.85
+P0472,Biography rule,Books,Biography,4353.77
+P0473,Dictionary level,Books,Dictionary,328.15
+P0474,Novel huge,Books,Novel,1473.83
+P0475,Dictionary order,Books,Dictionary,261.22
+P0476,  SCIENCE BOOK MEMBER  ,Books,Science Book,1115.07
+P0477,Biography speech,Books,Biography,3592.29
+P0478,Comics either,Books,Comics,1566.46
+P0479,Dictionary sometimes,Books,Dictionary,4189.79
+P0480,Comics group,Books,Comics,2748.76
+P0481,Comics stand,Books,Comics,785.76
+P0482,Novel low,Books,Novel,4874.18
+P0483,  NOVEL RESPONSIBILITY  ,Books,Novel,1237.51
+P0484,Novel magazine,Books,Novel,3868.13
+P0485,Dictionary watch,Books,Dictionary,3890.42
+P0486,Novel peace,Books,Novel,3939.39
+P0487,Comics training,Books,Comics,1843.47
+P0488,Comics ahead,Books,Comics,3430.5
+P0489,  COMICS MEET  ,Books,Comics,3131.22
+P0490,Biography but,Books,Biography,501.99
+P0491,Biography evening,Books,Biography,3941.06
+P0492,Biography author,Books,Biography,1651.72
+P0493,  NOVEL IDEA  ,Books,Novel,4720.51
+P0494,Comics property,Books,Comics,1421.86
+P0495,  BIOGRAPHY STORY  ,Books,Biography,2211.8
+P0496,Dictionary discussion,Books,Dictionary,2099.42
+P0497,  NOVEL RESEARCH  ,Books,Novel,2815.68
+P0498,Dictionary science,Books,Dictionary,1689.71
+P0499,  COMICS DRUG  ,Books,Comics,2127.67
+P0500,Novel such,Books,Novel,2841.73

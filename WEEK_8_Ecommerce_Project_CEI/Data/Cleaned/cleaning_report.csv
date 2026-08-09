@@ -1,0 +1,7 @@
+issue,count
+Missing customer IDs,25
+Invalid emails,5
+Invalid order references,0
+Negative quantities (returns),35
+Discount > 100,0
+Quantity = 0,0
