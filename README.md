@@ -28,3 +28,11 @@
 * Data Bricks Assignment.ipynb
 * Sample - Superstore.csv
 * Cleaned_Superstore.csv
+
+-> Week 8 Assignment :- ( E-commerce Project )
+* Data ( Raw & Cleaned )
+* Notebook ( Week_8_Ecommerce_Project.ipynb
+* Outputs ( All Outputs )
+* SQL ( SQL queries )
+* Screenshots ( Query & Analysis Outputs )
+* ecommerce.db
