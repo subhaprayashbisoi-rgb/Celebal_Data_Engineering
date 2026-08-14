@@ -36,3 +36,10 @@
 * SQL ( SQL queries )
 * Screenshots ( Query & Analysis Outputs )
 * ecommerce.db
+
+-> Serviec Track Pipeline Project :- ( Major Project )
+* Service_Track_Pipeline.ipynb
+* customers.csv
+* devices.csv
+* service_jobs.csv
+* screenshots ( Query & Analysis Output )
